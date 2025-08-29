@@ -5,3 +5,4 @@ backups/
 # Files
 *.app
 *.platypus
+.DS_Store
