@@ -7,15 +7,9 @@
 <h4 align="center">A simple menu bar application for macOS that provides easy toggle functionality for hidden files in Finder</h4>
 
 <p align="center">
-  <a href="https://github.com/ArturGuedes/Montri/releases">
-    <img src="https://img.shields.io/github/release/ArturGuedes/Montri.svg" alt="GitHub release">
-  </a>
-  <a href="https://github.com/ArturGuedes/Montri/releases">
-    <img src="https://img.shields.io/github/release-date/ArturGuedes/Montri.svg" alt="Last release">
-  </a>
-  <a href="https://github.com/ArturGuedes/Montri/releases">
-    <img src="https://img.shields.io/github/downloads/ArturGuedes/Montri/total.svg" alt="GitHub downloads">
-  </a>
+  <a href="https://github.com/ArturGuedes/Montri/releases"><img src="https://img.shields.io/github/release/ArturGuedes/Montri.svg" alt="GitHub release"></a>
+  <a href="https://github.com/ArturGuedes/Montri/releases"><img src="https://img.shields.io/github/release-date/ArturGuedes/Montri.svg" alt="Last release"></a>
+  <a href="https://github.com/ArturGuedes/Montri/releases"><img src="https://img.shields.io/github/downloads/ArturGuedes/Montri/total.svg" alt="GitHub downloads"></a>
 </p>
 
 ## Download
